@@ -136,9 +136,6 @@ dmypy.json
 *.dat
 *.hea
 *.json
-results/
-models/
-outputs/
 logs/
 
 # IDE
