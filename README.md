@@ -411,8 +411,12 @@ GitHub: [github.com/jacobjoshy](https://github.com/jacobjoshy)
 ---
 
 ## 📄 License
+This project is All Rights Reserved with no license for use, modification, or distribution.
+✅ Permitted: Viewing the code for learning and reference purposes
+❌ Restricted: Any use, copying, modification, distribution, or commercial exploitation
+© 2025 Jacob Joshy — All rights reserved.
 
-This project is developed as part of the Cardiac Design Labs assignment and follows standard open-source practices for educational and research purposes.
+Note: This code is provided for educational viewing only. No permission is granted to use, copy, modify, merge, publish, distribute, sublicense, or sell any part of this software without explicit written permission from the author.
 
 ---
 
